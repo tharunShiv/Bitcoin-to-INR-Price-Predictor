@@ -92,7 +92,6 @@ plt.ylabel('BTC-INR Price')
 plt.legend()
 plt.show()
 
-
 '''
 from keras.models import load_model
 from keras.models import model_from_json
