@@ -93,7 +93,7 @@ plt.legend()
 plt.show()
 
 
-
+'''
 from keras.models import load_model
 from keras.models import model_from_json
 #regressor.save('my_model.h5')
@@ -105,3 +105,4 @@ with open("my_model.json", "w") as json_file:
 # serialize weights to HDF5
 regressor.save_weights("model.h5")
 print("Saved model to disk")
+'''
